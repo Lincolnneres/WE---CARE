@@ -1,6 +1,6 @@
 # 🏥 WE CARE
 
-![Preview do Projeto](./screenshot.png)
+![Preview do Projeto](./assets/screenshot.png)
 
 O **WE CARE** é um projeto de interface web focado em experiência do usuário para o setor de bem-estar e saúde.
 
