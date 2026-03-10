@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  margin: 44px 0 144px 76px;
+}
+
+.link-header {
+  margin-right: 23px;
+  width: 90px;
+  height: 29px;
+  opacity: 1;
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 100%;
+  color: #989d9c;
+  cursor: pointer;
+}
+
+.logo-image {
+  width: 25rem;
+  height: auto;
+  margin-left: 9rem;
+}
+
+.section-hero {
+  display: flex;
+  align-items: center;
+  gap: 86px;
+  flex: 1;
+}
+
+.button-header {
+  width: 8.125rem;
+  height: 2.5625rem;
+  opacity: 1;
+  border-radius: 1.3rem;
+  border: none;
+  cursor: pointer;
+  background-color: #665ae1;
+  color: #fff;
+  font-weight: 600;
+  opacity: 1;
+  font-size: 1.5rem;
+}
+
+.link-header:hover {
+  opacity: 0.8;
+  color: #665ae1;
+}
+
+.button-header:hover {
+  opacity: 0.8;
+  color: #989d9c;
+}
+
+.title-hero {
+  font-weight: 900;
+  font-size: 6.25rem;
+  line-height: 100%;
+  color: #515151;
+}
+
+p {
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 100%;
+  color: #848484;
+  width: 30rem;
+}
+
+.button-main {
+  width: 8.125rem;
+  height: 2.5625rem;
+  opacity: 1;
+  border-radius: 1.3rem;
+  border: none;
+  cursor: pointer;
+  background: #adff00;
+  color: #000000;
+  font-weight: 700;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.button-main:hover {
+  opacity: 0.8;
+  color: #fff;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 3.625rem;
+  line-height: 100%;
+  color: #515151;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
