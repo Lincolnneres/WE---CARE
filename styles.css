@@ -104,3 +104,49 @@ main {
   flex-direction: column;
   gap: 2rem;
 }
+
+@media (max-width: 768px) {
+  header {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between; /* ← distribui os itens */
+    flex-wrap: nowrap;
+  }
+
+  .link-header,
+  .button-header {
+    margin: 10px 0;
+  }
+
+  .logo-image {
+    width: 15rem;
+    margin: 20px 0;
+  }
+
+  .section-hero {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+
+  .title-hero {
+    font-size: 3rem;
+  }
+
+  p {
+    width: auto;
+    padding: 0 20px;
+  }
+  .button-main {
+    margin-left: 10rem;
+  }
+  .link-header {
+    font-size: 0.65rem; /* ← letra menor para caber tudo */
+  }
+  .button-header {
+    font-size: 0.65rem;
+    padding: 4px 8px; /* ← botão menor */
+  }
+}
