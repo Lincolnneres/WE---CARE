@@ -1,6 +1,8 @@
 # 🏥 WE CARE
 
-![Preview do Projeto](./assets/screenshot.png)
+[![Preview do Projeto](./assets/screenshot.png)](https://lincolnneres.github.io/WE---CARE/)
+
+_👉 [Clique aqui para visualizar o projeto online](https://lincolnneres.github.io/WE---CARE/)_
 
 O **WE CARE** é um projeto de interface web focado em experiência do usuário para o setor de bem-estar e saúde.
 
